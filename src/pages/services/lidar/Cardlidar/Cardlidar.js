@@ -14,8 +14,8 @@ function Cardlidar() {
     </h1>
     <div className="cardcontain">
     <Grid container spacing={3} >
-        <Grid item lg={1.5} md={.5} sm={1} xs={1}></Grid>
-      <Grid item xs={10} lg={3} md={3.6} sm={5}
+          <Grid item lg={1.5} md={.5} sm={1} xs={1}></Grid>
+        <Grid item xs={10} lg={3} md={3.6} sm={5}
       > <Card className='advertisecardli' >
       <CardActionArea>
         <CardMedia
